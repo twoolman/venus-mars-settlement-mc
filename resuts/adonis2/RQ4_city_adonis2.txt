@@ -1,0 +1,11 @@
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 999
+
+adonis2(formula = dist(loc_mean) ~ regime, data = data.frame(regime = regime), permutations = CFG$permanova_perm)
+          Df SumOfSqs      R2      F Pr(>F)  
+Model      1    0.708 0.01318 3.9803  0.013 *
+Residual 298   53.018 0.98682                
+Total    299   53.726 1.00000                
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
