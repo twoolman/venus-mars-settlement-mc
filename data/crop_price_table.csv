@@ -1,0 +1,8 @@
+"product","class","lo","hi","bio_lo","bio_hi","extract","source"
+"paclitaxel","pharma",15000,30000,90,900,TRUE,"[S] Pharmaoffer avg $20.7k/kg API (12 mo to Jun 2026); biomass via plant cell culture [VERIFY yield]"
+"vinca_alkaloid","pharma",1e+05,3e+05,20000,3e+05,TRUE,"[S] PharmaCompass about $197k/kg vincristine sulfate (undated customs avg); leaf yield about 0.0003-0.005% [VERIFY]"
+"cannabis_flower","cannabis",660,3300,1.1,1.5,FALSE,"[S] US wholesale 'several hundred to over a thousand dollars' per lb (2026)"
+"thc_distillate","cannabis",1000,5000,4,8,TRUE,"[VERIFY] Distillate wholesale; about 15-25% THC flower"
+"cbg_isolate","cannabis",1000,1500,5,15,TRUE,"[S] KV Cannabis CBG isolate from $1,250/kg (2026); CBG-dominant strains about 7-20%"
+"thcv_isolate","cannabis",4000,8500,20,200,TRUE,"[S] Red Mesa Science THCV isolate $832/100 g to about $4,875/kg; THCV content about 0.5-5%"
+  
