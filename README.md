@@ -33,9 +33,9 @@ The full results, with intervals, holdout R2, significant-input counts and adoni
 | `data/venus_mars_v26_parameter_table.csv` | The 367 uncertain inputs, each with distribution, bounds, units, basis tag and source |
 | `data/crop_price_table.csv` | Crop price inputs used by the RQ3 export models |
 | `results/hypothesis_summary.csv` | One row per test: median D, 95% interval, P(D > 0), p_MC, decision, surrogate holdout R2 and adonis2 results |
-| `results/tables/*_variable_tests.csv` | Per-input sensitivities, permuted-refit p-values and significance flags for each test |
+| `tables/*_variable_tests.csv` | Per-input sensitivities, permuted-refit p-values and significance flags for each test |
 | `results/adonis2/*_adonis2.txt` | PERMANOVA tables for each test |
-| `results/figures/` | Distribution of D and input sensitivity plots for each test |
+| `figures/` | Distribution of D and input sensitivity plots for each test |
 | `results/sessionInfo.txt` | R session information from the full run |
 
 Each parameter's basis tag marks it as sourced from the literature [S], derived from physics within the model [D] or assumed [A], and 41 parameters carry a [VERIFY] flag for primary sourcing.
