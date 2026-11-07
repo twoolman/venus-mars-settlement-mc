@@ -1,5 +1,7 @@
 # Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24042381.svg)](https://doi.org/10.5281/zenodo.24042381)
+
 This repository holds the R code, input parameter table and summary results for the study *A Venus Cloud-Level Aerostat Colony as a Superior Offworld Settlement Strategy to a Mars Surface Colony: A Monte Carlo and Neural Network Analysis* by Thomas Alan Woolman (On Target Technologies, Inc.).
 
 The study builds comparable first-principles physical and economic models of a crewed aerostat colony floating at 54 to 60 km in the Venus cloud deck and a crewed surface colony on Mars. It propagates the uncertainty in 367 input parameters through Monte Carlo simulation, and it tests ten one-sided null hypotheses at an alpha of 0.05. An H2O deep learning network is fitted inside the simulation as a differentiable surrogate. It is refitted on nonparametric bootstrap resamples to give per-prediction perturbation sensitivities, a paired permuted-refit null arm gives each input its own p-value, and PERMANOVA (vegan adonis2) is run on the local sensitivity matrix.
@@ -69,7 +71,11 @@ Note that the script stops any H2O cluster already listening on localhost port 5
 
 ## Citation
 
-If you use this code, please cite it using the metadata in `CITATION.cff`. The archived release DOI is listed on the Zenodo record linked from this repository.
+If you use this code, please cite the archived release:
+
+Woolman, T. A. (2026). *Venus aerostat colony versus Mars surface colony: Monte Carlo and neural network analysis* (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24042381
+
+The same metadata is in `CITATION.cff`, which GitHub uses for the **Cite this repository** button.
 
 ## License
 

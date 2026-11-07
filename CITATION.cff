@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis"
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.24042381
 date-released: 2026-11-07
 license: MIT
 type: software
