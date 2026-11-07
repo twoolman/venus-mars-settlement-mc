@@ -1,0 +1,9 @@
+venus_mars_mc_ann_v26_output/
+venus_mars_mc_ann_v26_quicktest/
+*_mc_draws.csv
+*_local_sensitivity.csv
+h2o_logs/
+checkpoints/
+.Rhistory
+.RData
+.Rproj.user/

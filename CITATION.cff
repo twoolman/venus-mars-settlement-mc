@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+type: software
+authors:
+  - family-names: Woolman
+    given-names: Thomas Alan
+    orcid: "https://orcid.org/0000-0002-4120-2157"
+    affiliation: "On Target Technologies, Inc."
+repository-code: "https://github.com/twoolman/venus-mars-settlement-mc"
+keywords:
+  - Venus
+  - Mars
+  - space settlement
+  - aerostat
+  - Monte Carlo simulation
+  - deep learning
+  - H2O
+  - permutation testing
+  - PERMANOVA
+abstract: >-
+  R code, input parameter table and summary results for a Monte Carlo
+  comparison of a Venus cloud-level aerostat colony and a Mars surface
+  colony across radiation, water and oxygen cost, exports, colony net
+  present value and gravity-linked health, with an H2O deep learning
+  surrogate, permuted-refit variable tests and PERMANOVA.

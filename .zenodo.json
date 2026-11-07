@@ -1,0 +1,15 @@
+{
+  "title": "Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis",
+  "upload_type": "software",
+  "description": "R code, input parameter table and summary results for a Monte Carlo comparison of a Venus cloud-level aerostat colony and a Mars surface colony across radiation, water and oxygen cost, exports, colony net present value and gravity-linked health, with an H2O deep learning surrogate, permuted-refit variable tests and PERMANOVA.",
+  "creators": [
+    {
+      "name": "Woolman, Thomas Alan",
+      "affiliation": "On Target Technologies, Inc.",
+      "orcid": "0000-0002-4120-2157"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Venus", "Mars", "space settlement", "aerostat", "Monte Carlo simulation", "deep learning", "H2O", "permutation testing", "PERMANOVA"],
+  "version": "1.0.0"
+}
