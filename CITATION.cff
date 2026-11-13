@@ -3,6 +3,10 @@ message: "If you use this software, please cite it as below."
 title: "Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis"
 version: 1.0.1
 doi: 10.5281/zenodo.24042381
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24042380"
+    description: Concept DOI, resolves to all versions of this software.
 date-released: 2026-11-07
 license: MIT
 type: software
