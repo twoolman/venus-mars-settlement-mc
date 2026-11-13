@@ -1,6 +1,6 @@
 # Venus Aerostat Colony versus Mars Surface Colony: Monte Carlo and Neural Network Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24042381.svg)](https://doi.org/10.5281/zenodo.24042381)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24042380.svg)](https://doi.org/10.5281/zenodo.24042380)
 
 This repository holds the R code, input parameter table and summary results for the study *A Venus Cloud-Level Aerostat Colony as a Superior Offworld Settlement Strategy to a Mars Surface Colony: A Monte Carlo and Neural Network Analysis* by Thomas Alan Woolman (On Target Technologies, Inc.).
 
